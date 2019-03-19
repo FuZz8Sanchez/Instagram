@@ -1,0 +1,97 @@
+* {
+	margin: 0;
+	padding: 0; 
+}
+
+body {
+	background: #FAFAFA;
+}
+
+.container {
+	height: 70px;
+	background-color: #FFFFFF;
+	border-bottom: 1px solid;
+	border-color: #EBEBEB;
+}
+
+.container p {
+	font-family: 'Lobster', cursive;
+	font-size: 28px;
+	color: #222222;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.container h1 {
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	margin-right: 10px;
+	font-size: 30px;
+	color: #5B313A;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.container img {
+	width: 35px;
+	height: 35px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.left {
+	display: inline-block;
+	float: left;
+}
+.right {
+	display: inline-block;
+	float: right;
+}
+
+.post-frame {
+	width: 600px;
+	min-height: 300px;
+	margin: 40px auto;
+	background-color: #FFF;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	margin-bottom: 25px;
+}
+.post-section img {
+	width: 600px;
+}
+
+.post-header {
+	margin-top: 10px;
+	padding: 10px 20px;
+	height: 30px;
+}
+
+.post-header p {
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	color: #515151;
+	padding-right: 10px;
+}
+
+.post-header h2{
+	font-family:'Merriweather', serif;
+	font-size: 20px;
+	color: #5B313A;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.description {
+	margin: 5px;
+	padding: 5px 40px 10px 40px;
+	text-align: center;
+	font-family:'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	color: #515151;
+}
+
+span {
+	font-family:'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	color: #3897F0;
+	font-weight: bold;
+}

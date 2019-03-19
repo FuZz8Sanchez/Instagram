@@ -1,0 +1,15 @@
+Todo e body tiene un fondo #FAFAFA
+
+LA pagina puppygram tiene un encabezado full width de 80px height color blanco con una línea gris medio bottom de 1px
+
+En el encabezado .container tiene el nombre Puppygram en fuente Lobster Gris oscuro junto al logo" que puede ser una camara con paws a la izquierda y luego a la derecha el título top 10 más votados.
+font-family: 'Quicksand', sans-serif;
+
+Luego viene un div .post que contiene 10 div de 4 partes: .frame > .section y .footer.
+
+el .frame es tipo polaroid buscar en cssw3school.410'x width height auto 
+
+dentro del .frame esta section que es la imagen de 400px 400px
+
+el footer esta debajo de section dentro de frame y tiene una linea superior de texto alineado a la derecha que tiene el numero creciente del top ten 1/10 en bold y 14px a la izq tiene un corazon en morado con una cifra al lado que ser[a m[as alta depende de la ubicacion en la lista top.
+abajo texto parrafo  a 10px padding justify con fuente san serif ____ de color gris oscuro con una breve descripcion y un span de #con nombres que iran en azul#3897F0 la misma fuente pero bold.
